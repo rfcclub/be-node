@@ -1,0 +1,76 @@
+Man 1
+Name: COOFANDY Mens Casual Hooded Robe Poncho Cape Cloak Irregular Hem Hoodie Pullover
+Description:65% Cotton, 30% Polyester, 5% Spandex. Long Sleeve/ Irregular Hem/ Split Front/ Oversize/ Drawstring Hoodie Pullover/ Hooded Poncho.
+Price:$35.00
+
+Man 2
+Name:American Apparel Men's Unisex Flex Fleece Zip Hoodie
+Description:50% Polyester, 50% Cotton. Zipper closure, Machine Wash, Zip-front fleece hoodie featuring contrast drawstrings and split-kangaroo pockets.
+Price:$29.19
+
+Man 3
+Name:El Paso Designs Unisex Classic Mexican Baja Pullover Hoodie
+Description:Warm, soft and comfortable outerwear, Durable and breathable with pockets and adjustable hood, Cozy, everyday leisure wear.
+Price: $29.59
+
+Man 4
+Name:Hooded check flannel shirt Semi-tailored fit
+Description:Removable sweat hood for a trompe-l'oeil layered look, Semi-tailored fit, Flap pockets, Soft and light 100% cotton flannel
+Price:$59.00
+
+Man 5
+Name:Check poplin shirt Semi-tailored fit
+Description:Collection of checks in seasonal colours, Semi-tailored fit, Button-down collar, Patch pocket on the chest, Ultra comfortable 100% cotton poplin
+Price:$50.00
+
+Man 6
+Name:Dark peonies shirt Slim fit
+Description:Rich painterly floral print on a contrasting dark background, Slim fit, Ultra comfortable, stretch cotton weave
+Price:$40.00
+
+Man 7
+Name: Accent cuff solid shirt Semi-tailored fit
+Description:A minimalist must-have casual chic style, Solid shirt accented by a mini-patterned underside, Semi-tailored fit, Cotton-poly weave for a great fit
+Price: $30.00
+
+Man 8
+Name: Wildflower shirt Semi-tailored fit
+Description:A collection of modern floral patterns to add some personality to your casual looks, Semi-tailored fit, Soft and comfortable 100% cotton weave
+Price: $35.00
+
+Man 9
+Name: Kruger all-over print shirt
+Description:It's all or nothing for this very distinctive printed shirt, Button-down collar, 100% cotton
+Price:$60.00
+
+Man 10
+Name:Thin stripe sweater
+Description:Go for an impeccable look with a sweater to layer over your shirts and tees, 100% acrylic knit 
+Price:$60.00
+
+Man 11
+Name:Printed longline T-shirt
+Description:Show off a colourful print on your essential updated T-shirt, Rounded style, high-low hem, Light jersey
+Price: $29.00
+
+Man 12
+Name: Distressed knee Tight jean Skinny fit
+Description:Dark jeans with a worn look created by the Swedish denim pros at Cheap Monday, Non-GMO, pesticide-free cotton from the Organic collection
+, Skinny fit, 5-pocket style
+Price: $90.00
+
+Man 13
+Name:Ribbed shawl-collar cardigan
+Description:Rustic-chic style cardigan with a cozy shawl collar, Contrast buttoning, Patch pockets in front, 100% cotton rib-knit with herringbone trim
+Price: $79.00
+
+Man 14
+Name: Merino wool cardigan
+Description:Minimalist design simply accented with a chain-knit block on the front, V neck with full-length buttons, Patch pockets with a rolled trim, Light 100% merino wool knit with an ultra soft and comfortable feel
+Price:$99.00
+
+Man 15
+Name: Faux-suede pocket shawl-collar cardigan
+Description: Modern rustic design, perfect for weekends at the cottage, Cocoon-like shawl collar, Small faux-suede patch pocket on the chest, Patch pockets in front
+Price: $79.00
+

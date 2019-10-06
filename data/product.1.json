@@ -1,0 +1,58 @@
+[
+{
+  "name": "Blooms Embroidered Red Tunic",
+  "description": "Pair the Blooms Embroidered Red Tunic of well fitted pants and a big smile, it's a proven stunner. Made from rayon, it has embroidery detail on the cuffs, a v-neck & a hig-low hemline",
+  "imageLink": "images/woman_1.png",
+  "price": 15.00,
+  "shippingCost": 5.00
+},
+{
+  "name": "Polka Owl Blue Shirt",
+  "description": "Team up the Polka Owls Shirt with white pants for casual look. Made from rayon, it has a button down placket, full sleeves & a short collar.",
+  "imageLink":"images/woman_2.png",
+  "price": 15.00,
+  "shippingCost": 5.00
+},
+{
+  "name":"Peacock Printed Raglan Tee",
+  "description": "Get your style game up this season with the Peacock Printed Raglan Tee. Made from viscose, this tee has puff print detail with three-fourth flared raglan sleeves.",
+  "imageLink": "images/woman_3.png",
+  "price": 10.00,
+  "shippingCost": 5.00
+},
+{
+  "name":"Stripes Off Shoulder Crop Top",
+  "description": "Go from a desk to party in a jiffy with the Striped Off Shoulder Crop Top. Made from polyester, it has a printed bodice & flared sleeves with pompom lace trim.",
+  "imageLink": "images/woman_4.png",
+  "price": 12.00,
+  "shippingCost": 5.00
+},
+{
+  "name": "COOFANDY Mens Casual Hooded Robe Poncho Cape Cloak Irregular Hem Hoodie Pullover",
+  "description": "65% Cotton, 30% Polyester, 5% Spandex. Long Sleeve/ Irregular Hem/ Split Front/ Oversize/ Drawstring Hoodie Pullover/ Hooded Poncho.",
+  "imageLink":"images/man_1.png",
+  "price": 35.00,
+  "shippingCost": 5.00
+},
+{
+  "name": "American Apparel Men's Unisex Flex Fleece Zip Hoodie",
+  "description":"50% Polyester, 50% Cotton. Zipper closure, Machine Wash, Zip-front fleece hoodie featuring contrast drawstrings and split-kangaroo pockets.",
+  "imageLink":"images/man_2.png",
+  "price": 29.19,
+  "shippingCost": 5.00
+},
+{
+  "name": "El Paso Designs Unisex Classic Mexican Baja Pullover Hoodie",
+  "description": "Warm, soft and comfortable outerwear, Durable and breathable with pockets and adjustable hood, Cozy, everyday leisure wear.",
+  "imageLink": "images/man_3.png",
+  "price": 29.59,
+  "shippingCost": 5.00
+},
+{
+  "name":"Hooded check flannel shirt Semi-tailored fit",
+  "description": "Removable sweat hood for a trompe-l'oeil layered look, Semi-tailored fit, Flap pockets, Soft and light 100% cotton flannel",
+  "imageLink": "images/man_4.png",
+  "price": 59.00,
+  "shippingCost": 5.00
+}
+]

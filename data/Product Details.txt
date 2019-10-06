@@ -1,0 +1,99 @@
+Woman 1
+Name:Blooms Embroidered Red Tunic
+description: Pair the Blooms Embroidered Red Tunic of well fitted pants and a big smile, it's a proven stunner. Made from rayon, it has embroidery detail on the cuffs, a v-neck & a hig-low hemline
+Price: $15.00
+
+Woman 2
+Name:Polka Owl Blue Shirt
+Description: Team up the Polka Owls Shirt with white pants for casual look. Made from rayon, it has a button down placket, full sleeves & a short collar.
+Price: $15.00
+
+Woman 3
+Name:Peacock Printed Raglan Tee
+Description: Get your style game up this season with the Peacock Printed Raglan Tee. Made from viscose, this tee has puff print detail with three-fourth flared raglan sleeves.
+Price: $10.00
+
+Woman 4
+Name:Stripes Off Shoulder Crop Top
+Description: Go from a desk to party in a jiffy with the Striped Off Shoulder Crop Top. Made from polyester, it has a printed bodice & flared sleeves with pompom lace trim.
+Price: $12.00
+
+Woman 5
+Name:Blooms Embroidered Black Wrap Around Top
+Description:Show the world how effortless your styling is with the Blooms Embroidered Black Wrap Around Top. Made from rayon, this top has embroidery detail at the bodice & the sleeves, V-neckline, three-fourth tie up sleeves & a curved hemline.
+Price:$18.00
+
+Woman 6
+Name:Panda Family Yellow Shirt
+Description:An array of adorable pandas is what you deserve this season! The Panda Family Yellow Shirt is made from rayon with full sleeves and short collar.
+Price:$15.00
+
+Woman 7
+Name:Tassels Mustard Cullottes
+Description:Forget your old pair of jeans and get comfortable with the Tassels Mustard Cullottes. Made from rayon, this pair is wrap around styled with tassels on the drawstrings.
+Price:$18.00
+
+Woman 8
+Name:Tassels Olive Cullottes
+Description:Forget your old pair of jeans and get comfortable with the Tassels Olive Cullottes. Made from rayon, this pair is wrap around styled with tassels on the drawstrings.
+Price:$18.00
+
+Woman 9
+Name:Crinkled Pink A-Line Skirt
+Description:The perfect skirt for your next night out! The Crinkled Pink A-Line Skirt is made from rayon, has a glitter lace trim on the waistband and is an A-line Skirt.
+Price:$12.00
+
+Woman 10
+Name:Tassel Orange Mid-Rise Jeans
+Description:Go retro this season with Tassel Orange Mid-Rise Jeans. Made from denim, they have tassel lace trim at the hem & have a regular fit.
+Price:$18.00
+
+Woman 11
+Name:Travel Applique Blue Mid-Rise Joggers
+Description:Add some fun to your wardrobe with the Travel Applique Blue Denim Joggers. Made from denim, they are mid-rise joggers come with applique work detail, front slash pockets, two back pockets & has a drawstring closure
+Price:$15.00
+
+Woman 12
+Name:Moth Strip Box Pleated Skirt
+Description:The lavish grandeur in the illustration style and colours of Art Deco finds its way to our second apparel range, Art Deco. With free and contemporary silhouettes, we found our inspiration in this timeless style as it reflected our love for the eclectic mix of elements and motifs. Breezy fabrics like cotton blends, slub jersey, burnt out fabrics and modal satin lend the collection a classy style that is easy to wear all year round! Inspired by shapes and forms, this adorable take on geometric patterns features a cast of cute characters and adorable motifs.
+Price:$10.00
+
+Woman 13
+Name:Soldier Sailor Pencil Skirt
+Description:Be the belle of the ball in the Soldier Sailor Pencil Skirt. With its lethal combination of edgy prints and pastel colours, this skirt adds an instant shot of glamour to your outfit. The stretchable fabric and waistband accentuate your curves, while the side zipper ensures a perfectly smooth fit, so you can dance the night away and look like a star all through it.
+Price:$8.00
+
+Woman 14
+Name:Teal Tassel Peplum Top
+Description:Give a twist to everyday styling with the Teal Tassel Peplum Top. Made from rayon & nylon, it has tassel lace trim at the front panel, a round neckline & short sleeves.
+Price:$15.00
+
+Woman 15
+Name:
+Description:
+Price:
+
+Woman 16
+Name:Chevron Embroidered Grey Sweatshirt
+Description:Pair up the Chevron Embroidered Grey Sweatshirt with any bottomwear in your wardrobe to discover a new outfit. Made from cotton & polyester, this sweatshirt has embroidered chevron lines on the front panel with full sleeves and a round neckline.
+Price:$15.00
+
+Woman 17
+Name:Panda Printed Black Hoodie
+Description:Layer up with cuteness with the Panda Printed Black Hoodie. Made from cotton & polyester, it has print detailing across the body, a attached hoodie, full sleeves & a full zipped closure.
+Price:$20.00
+
+Woman 18
+Name:Butterflies Embellished Olive Sweatshirt
+Description:Butterflies Embellished Olive Sweatshirt is your ultimate snuggle partner this season. Made from cotton & elastane, it has embellishments on the front panel, a round neckline, full sleeves & a ribbed hemline
+Price:$18.00
+
+Woman 19
+Name:Jungle Embroidered Navy Sweatshirt
+Description:This festive season layer up with Jungle Embroidered Navy Sweatshirt. Made from cotton & elastane, it has embroidery knit front panel, a round neckline & drop shoulder full sleeves.
+Price:$15.00
+
+Woman 20
+Name:Cross Stitch Off Shoulder Orange Skater Dress
+Description:Go country style with the Cross Stitch Orange Skater dress. Pair it up with boots or sandals to discover new styles. Made from Rayon, it has a cross stitch embroidery panel on the placket & waist & off shoulder full sleeves.
+Price:$25.00
